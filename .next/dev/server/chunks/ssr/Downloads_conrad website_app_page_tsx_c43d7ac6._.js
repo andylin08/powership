@@ -414,7 +414,7 @@ function AirshipDemo() {
         };
         // Load model
         const loader = new __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$conrad__website$2f$node_modules$2f$three$2f$examples$2f$jsm$2f$loaders$2f$GLTFLoader$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["GLTFLoader"]();
-        loader.load("/airship.glb", (gltf)=>{
+        loader.load("/models/airship.glb", (gltf)=>{
             airshipModel = gltf.scene;
             // Optimize geometry
             airshipModel.traverse((child)=>{
