@@ -1,0 +1,3 @@
+module.exports=[62628,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(59711);a.n(d("[project]/Downloads/conrad website/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},45588,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(59711);a.n(d("[project]/Downloads/conrad website/node_modules/next/dist/client/components/builtin/global-error.js"))},58947,a=>{"use strict";a.i(62628);var b=a.i(45588);a.n(b)}];
+
+//# sourceMappingURL=fe24c_next_dist_client_components_builtin_global-error_7b831cf5.js.map
