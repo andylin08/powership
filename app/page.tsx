@@ -355,7 +355,7 @@ export default function AirshipDemo() {
     // Load model
     const loader = new GLTFLoader()
     loader.load(
-      "/models/airship.glb",
+      "/models/airship-v2.glb",
       (gltf) => {
         airshipModel = gltf.scene
 
